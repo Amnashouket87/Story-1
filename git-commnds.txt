@@ -15,3 +15,14 @@ git log  ---->> to see history of changes made
 
 
 git add .    ------>> to save all files in one time
+
+git diff 'filename'  ------>> to see if unexpected changes are made
+
+git checkout 'filename'  ----->> to restore file to previous mode
+
+--------------------------------------------------------------
+
+git remote add origin https://github.com/Muhammad-93/Story.git
+
+git push -u origin master
+
