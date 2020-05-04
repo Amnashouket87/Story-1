@@ -14,4 +14,4 @@ git commit -m "complete all"  ------>> to commit changes
 git log  ---->> to see history of changes made
 
 
-git add .    ------>> to savgit commit -m "complete all"e all files in one time
+git add .    ------>> to save all files in one time
