@@ -8,10 +8,10 @@ git status  ------>> to check status of files
 git add chapter1.txt  ------>> to add file with git, to update changes
 
 
-git commit -m "complete chapter 1"  ------>> to commit changes
+git commit -m "complete all"  ------>> to commit changes
 
 
 git log  ---->> to see history of changes made
 
 
-git add .    ------>> to save all files in one time
+git add .    ------>> to savgit commit -m "complete all"e all files in one time
